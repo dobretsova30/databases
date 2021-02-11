@@ -1,0 +1,47 @@
+img
+{
+	box-shadow: -19px 0 22px -19px #000, 19px 0 22px -19px #000;
+	opacity: 0.7;
+}
+
+p
+{
+	color: #8B0000;
+	font-family: Andale Mono, monospace;
+	font-size: 15 px;
+	line-height: 150%;
+}
+
+h1
+{ 
+	 font-family: Andale Mono, monospace;
+	 font-size: 30px;   /* размер шрифта */
+	 line-height: 150%; /* междустрочный интервал */
+	 color: #ff0000;    /* цвет шрифта */
+}
+
+h2
+{
+	 font-family: Andale Mono, monospace;
+	 font-size: 20px;   /* размер шрифта */
+	 line-height: 150%; /* междустрочный интервал */
+	 color: #8B0000;    /* цвет шрифта */ 
+}
+
+body
+{
+    font-family: Andale Mono, monospace;
+	background: #FFE4B5;
+}
+
+a
+{
+    font-family: Andale Mono, monospace;
+    color: #8B4513;	
+}
+
+footer
+{
+	font-family: Andale Mono, monospace;
+	font-size: 18px;
+}
